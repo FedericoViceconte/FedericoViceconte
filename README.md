@@ -18,3 +18,8 @@ Juego 2D multijugador de artillería por turnos, desarrollado en Godot junto a d
 
 - [Mi espacio](https://github.com/RenzoLeporace/habit-tracker-v4) — App en Flutter para seguir hábitos y gestionar finanzas personales. [Demo](https://renzoleporace.github.io/habit-tracker-v4/)
 - [FRR Soluciones IT](https://github.com/F-R-R-ENTERTAINMENT/f-r-r-entertainment.github.io) — Sitio de servicios de tecnología, infraestructura y soporte IT.
+
+### Colaboraciones privadas
+
+- **Sistema de Gestión Gruppe Sechs** — Aplicación de escritorio para gestión operativa.
+- **Crono Runner** — Juego educativo de plataformas.
