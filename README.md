@@ -22,7 +22,7 @@ Junto al equipo también desarrollé el bot de la comunidad en Discord, [WO Guar
 
 - [Gestión Canchas](https://github.com/federicoviceconte5-jpg/gestioncanchas) — Aplicación de escritorio en C# y Windows Forms para administrar canchas, horarios, reservas y pagos con SQL Server LocalDB.
 - [Bot de Discord · WO Guardian](https://github.com/federicoviceconte5-jpg/bot-discord) — Bot en Node.js y discord.js con bienvenida multilingüe, tickets de soporte, sugerencias y anuncios traducidos.
-- [Khalifa Barbershop](https://github.com/federicoviceconte5-jpg/khalifa-barbershop) — **Proyecto académico full stack.** Sitio de barbería con React, Express y MySQL, con catálogo, formulario de contacto y panel de administración de novedades.
+- [Khalifa Barbershop](https://github.com/federicoviceconte5-jpg/khalifa-barbershop) — **Proyecto académico full stack.** Sitio de barbería con React, Express y MySQL, con catálogo, formulario de contacto y panel de administración de novedades. [Demo](https://federicoviceconte5-jpg.github.io/khalifa-barbershop/)
 
 ## Proyectos compartidos
 
