@@ -1,5 +1,11 @@
 # Federico Viceconte
 
+Estudiante de la **Tecnicatura Superior en Desarrollo de Software** en Buenos Aires. Desarrollo aplicaciones de escritorio, sitios web full stack y bots, y trabajo en equipo en proyectos reales, como un juego multijugador hecho entre amigos.
+
+**Busco un puesto como desarrollador junior o trainee.** Podés contactarme por [LinkedIn](https://www.linkedin.com/in/federico-viceconte/).
+
+**Tecnologías:** C# · .NET · Windows Forms · SQL Server · JavaScript · Node.js · React · Express · MySQL · Python · Godot · Git
+
 ## Proyecto destacado · WO Definitive Edition
 
 Juego 2D multijugador de artillería por turnos, creado en Godot entre tres amigos. Las partidas en línea reúnen hasta seis jugadores y combinan armas, escenarios destructibles y mascotas personalizables.
