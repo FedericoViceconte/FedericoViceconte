@@ -2,7 +2,11 @@
 
 ## Proyecto destacado · WO Definitive Edition
 
-Juego 2D multijugador de artillería por turnos, desarrollado en Godot junto a dos colaboradores. Las partidas en línea reúnen hasta seis jugadores y combinan armas, escenarios destructibles y mascotas personalizables.
+Juego 2D multijugador de artillería por turnos, desarrollado en Godot en un equipo de tres personas. Las partidas en línea reúnen hasta seis jugadores y combinan armas, escenarios destructibles y mascotas personalizables.
+
+**Mi rol:** desarrollé la mayor parte del juego, desde la jugabilidad por turnos y el sistema de armas hasta el multijugador en línea, los escenarios destructibles y las mascotas.
+
+También creé el bot de la comunidad en Discord, [WO Guardian](https://github.com/federicoviceconte5-jpg/bot-discord), con bienvenida en cinco idiomas, tickets de soporte y novedades traducidas automáticamente.
 
 ![Lobby de WO Definitive Edition con una mascota seleccionada y el botón Buscar partida](assets/wo-definitive-lobby.png)
 
