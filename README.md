@@ -12,7 +12,7 @@ Juego 2D multijugador de artillería por turnos, creado en Godot entre tres amig
 
 **Mi rol:** lo creamos los tres en conjunto y yo desarrollé muchas de sus funciones en todas las áreas: la jugabilidad por turnos, el sistema de armas, el multijugador en línea, los escenarios destructibles y las mascotas.
 
-Junto al equipo también desarrollé el bot de la comunidad en Discord, [WO Guardian](https://github.com/federicoviceconte5-jpg/bot-discord), con bienvenida en cinco idiomas, tickets de soporte y novedades traducidas automáticamente.
+Junto al equipo también desarrollé el bot de la comunidad en Discord, [WO Guardian](https://github.com/FedericoViceconte/bot-discord), con bienvenida en cinco idiomas, tickets de soporte y novedades traducidas automáticamente.
 
 ![Lobby de WO Definitive Edition con una mascota seleccionada y el botón Buscar partida](assets/wo-definitive-lobby.png)
 
@@ -20,9 +20,9 @@ Junto al equipo también desarrollé el bot de la comunidad en Discord, [WO Guar
 
 ## Proyectos propios
 
-- [Gestión Canchas](https://github.com/federicoviceconte5-jpg/gestioncanchas) — Aplicación de escritorio en C# y Windows Forms para administrar canchas, horarios, reservas y pagos con SQL Server LocalDB.
-- [Bot de Discord · WO Guardian](https://github.com/federicoviceconte5-jpg/bot-discord) — Bot en Node.js y discord.js con bienvenida multilingüe, tickets de soporte, sugerencias y anuncios traducidos.
-- [Khalifa Barbershop](https://github.com/federicoviceconte5-jpg/khalifa-barbershop) — **Proyecto académico full stack.** Sitio de barbería con React, Express y MySQL, con catálogo, formulario de contacto y panel de administración de novedades. [Demo](https://federicoviceconte5-jpg.github.io/khalifa-barbershop/)
+- [Gestión Canchas](https://github.com/FedericoViceconte/gestioncanchas) — Aplicación de escritorio en C# y Windows Forms para administrar canchas, horarios, reservas y pagos con SQL Server LocalDB.
+- [Bot de Discord · WO Guardian](https://github.com/FedericoViceconte/bot-discord) — Bot en Node.js y discord.js con bienvenida multilingüe, tickets de soporte, sugerencias y anuncios traducidos.
+- [Khalifa Barbershop](https://github.com/FedericoViceconte/khalifa-barbershop) — **Proyecto académico full stack.** Sitio de barbería con React, Express y MySQL, con catálogo, formulario de contacto y panel de administración de novedades. [Demo](https://federicoviceconte.github.io/khalifa-barbershop/)
 
 ## Proyectos compartidos
 
