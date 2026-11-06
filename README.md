@@ -20,6 +20,7 @@ Junto al equipo también desarrollé el bot de la comunidad en Discord, [WO Guar
 
 ## Proyectos propios
 
+- [WO Tester](https://github.com/FedericoViceconte/WO-Tester) — Aplicación de escritorio en C# y WPF para automatizar pruebas de mapas, armas y escenarios de WO Definitive, con simulación acelerada e informes reproducibles.
 - [Gestión Canchas](https://github.com/FedericoViceconte/gestioncanchas) — Aplicación de escritorio en C# y Windows Forms para administrar canchas, horarios, reservas y pagos con SQL Server LocalDB.
 - [Bot de Discord · WO Guardian](https://github.com/FedericoViceconte/bot-discord) — Bot en Node.js y discord.js con bienvenida multilingüe, tickets de soporte, sugerencias y anuncios traducidos.
 - [Khalifa Barbershop](https://github.com/FedericoViceconte/khalifa-barbershop) — **Proyecto académico full stack.** Sitio de barbería con React, Express y MySQL, con catálogo, formulario de contacto y panel de administración de novedades. [Demo](https://federicoviceconte.github.io/khalifa-barbershop/)
