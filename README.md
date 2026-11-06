@@ -2,8 +2,9 @@
 
 Estudiante de la **Tecnicatura Superior en Desarrollo de Software** en Buenos Aires. Desarrollo aplicaciones de escritorio, sitios web full stack y bots, y trabajo en equipo en proyectos reales, como un juego multijugador hecho entre amigos.
 
-**Busco un puesto como desarrollador junior o trainee.** Podés contactarme por [LinkedIn](https://www.linkedin.com/in/federico-viceconte/).
+**Busco un puesto como desarrollador junior o trainee.** Mirá mis proyectos en mi **[portfolio](https://federicoviceconte.github.io/)** o contactame por [LinkedIn](https://www.linkedin.com/in/federico-viceconte/).
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-federicoviceconte.github.io-5EEAD4?logo=githubpages&logoColor=black)](https://federicoviceconte.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-federico--viceconte-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-viceconte/)
 ![Ubicación](https://img.shields.io/badge/Buenos_Aires-Argentina-74ACDF)
 ![Disponible](https://img.shields.io/badge/disponible-junior_%2F_trainee-2EA44F)
