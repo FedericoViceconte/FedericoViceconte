@@ -27,6 +27,7 @@ Junto al equipo también desarrollé el bot de la comunidad en Discord, [WO Guar
 
 ## Proyectos compartidos
 
+- [Web de WO Definitive Edition](https://github.com/wo-definitive/wo-definitive.github.io) — Sitio web oficial del juego, desarrollado en equipo. [Web](https://wodefinitiveedition.com/)
 - [Mi espacio](https://github.com/RenzoLeporace/habit-tracker-v4) — App en Flutter para seguir hábitos y gestionar finanzas personales. [Demo](https://renzoleporace.github.io/habit-tracker-v4/)
 - [FRR Soluciones IT](https://github.com/F-R-R-ENTERTAINMENT/f-r-r-entertainment.github.io) — Sitio de servicios de tecnología, infraestructura y soporte IT.
 - [Sistema de Gestión Gruppe Sechs](https://github.com/RenzoLeporace/sistema-gestion-gruppe-sechs) — Aplicación de escritorio en C# y Windows Forms para gestionar servicios de seguridad, contratos y facturación.
